@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Ventas>
+  <venta id="1" fecha="2019/02/11">
+    <unidades>00</unidades>
+    <mesa>00</mesa>
+    <precio>00</precio>
+  </venta>
+  <venta id="0" fecha="11/02/2019">
+    <unidades>1</unidades>
+    <mesa>Mesa 1</mesa>
+    <precio>2,5</precio>
+  </venta>
+  <venta id="1" fecha="11/02/2019">
+    <unidades>1</unidades>
+    <mesa>Mesa 2</mesa>
+    <precio>2,5</precio>
+  </venta>
+  <venta id="2" fecha="11/02/2019">
+    <unidades>1</unidades>
+    <mesa>Mesa 4</mesa>
+    <precio>2,5</precio>
+  </venta>
+  <venta id="3" fecha="11/02/2019">
+    <unidades>1</unidades>
+    <mesa>Mesa 5</mesa> 
+    <precio>2,5</precio> 
+    </venta>
+</Ventas>
